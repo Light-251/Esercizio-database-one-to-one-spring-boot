@@ -7,3 +7,6 @@ scegliere il tipo di Request Body Custom e inserire manualmente il file in forma
 ES:
 
 ![Screenshot 2023-03-23 201848](https://user-images.githubusercontent.com/79428202/227324977-5fcca436-2098-4743-821c-b509a2901a65.png)
+
+# Elenco dipendenze
+![Screenshot 2023-03-23 151025](https://user-images.githubusercontent.com/79428202/227326078-519b0387-79bd-4b79-8bdf-e4f1486490c6.png)
